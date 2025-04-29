@@ -71,10 +71,10 @@ Sales records link each sold pair of glasses to:
 ### 🛠️ Connection Parameters
 
 - **Host:** `localhost`
-- **Port:** `3308`
-- **User:** `root`
-- **Password:** `root`
-- **Database name:** `optics`
+- **Port:** `3306` (default MySQL port)
+- **User:** `your_user`
+- **Password:** `your_password`
+- **Database name:** `bottleneck_optics`
 
 > 💡 Use DBeaver or any preferred SQL client to explore, manage, and query the database structure.
 
